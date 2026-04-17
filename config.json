@@ -1,0 +1,9 @@
+{
+  "filter_band": [8.0, 30.0],
+  "epoch_window": [1.0, 4.0],
+  "csp_components": 4,
+  "test_size": 0.3,
+  "random_seed": 42,
+  "preferred_classifier": "SVM",
+  "subject_default": 1
+}
